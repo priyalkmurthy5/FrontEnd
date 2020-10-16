@@ -1,0 +1,53 @@
+body {
+	background-color: black;
+}
+
+h1{
+	color: white;
+	font: italic  bold 50px/30px Georgia, serif;
+	text-align: center;
+}
+
+header{
+	color: green;
+	font: italic  bold 12px/20px Georgia, serif;
+	text-align: center;
+}
+
+h2,h3{
+	color: red;
+	font: italic bold 20px/30px Georgia, serif;
+	text-align: center;
+}
+
+.type1 {
+	color : blue;
+	text-align: center;
+}
+
+.type2{
+	color: yellow;
+	text-align: center;
+}
+
+.center {
+	align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul{
+	list-style: circle;
+	list-style-position: center;
+
+	color: white;
+	display: block;
+	}
+
+ol{
+	list-style: lower-roman;
+	color: white;
+	text-align: center;
+}

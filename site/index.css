@@ -1,0 +1,32 @@
+body {
+	color : gray;
+}
+h1{
+	color: green;
+	font: italic;
+	width: 200px;
+	align-content: center;
+}
+
+h2,h3{
+	color: red;
+	font: italic;
+	width: 200px;
+	align-content: center;
+}
+
+p {
+	color : blue;
+	align-content: center;
+}
+
+a: link {
+	text-decoration: none;
+	background-color: green;
+	border :1px solid blue;
+	color: black;
+	display:block;
+	width:200px;
+	text-align: center;
+    margin-bottom: 1px; 
+    }
